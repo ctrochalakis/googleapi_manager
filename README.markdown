@@ -4,6 +4,15 @@ GoogleapiManager
 Manage your google api keys for different hosts.
 Rails 3 only.
 
+
+Install
+-------
+
+    # Gemfile
+    source 'http://rubygems.org'
+    gem 'googleapi_manager'
+
+
 Usage
 -----
     # sample config/google_api_keys.yml
